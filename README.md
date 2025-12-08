@@ -81,15 +81,6 @@ A reusable React UI library designed with accessibility, design tokens, and Stor
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lafimouad&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lafimouad&layout=compact&theme=tokyonight" height="160"/>
-</p>
-
----
-
 ## 🤝 Let’s Connect
 
 - **LinkedIn:** https://www.linkedin.com/in/mouadh-lafi  
