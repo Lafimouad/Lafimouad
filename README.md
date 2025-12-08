@@ -65,11 +65,11 @@ A complete Java microservice showcasing domain-driven design, REST API, validati
 
 ---
 
-### 🟧 **Full-Stack Car Loan Simulator**
+### 🟧 **Personal Finance Dashboard**
 Inspired by my previous work: a loan simulator with authentication, dashboard, API integration, and workflow logic.  
-**Tech:** React / Angular, Spring Boot, MySQL, Docker
+**Tech:** React , Spring Boot, MySQL, Docker
 
-👉 *Coming soon…*
+👉[LINK](https://github.com/Lafimouad/personal-finance-dashboard)
 
 ---
 
