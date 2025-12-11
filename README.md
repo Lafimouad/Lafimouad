@@ -53,7 +53,7 @@ I love building **scalable applications**, improving **developer experience**, a
 A production-ready React micro-frontend setup using Webpack Module Federation, shared UI components, and scalable architecture.  
 **Tech:** React, TS, Module Federation, Storybook, CI/CD
 
-👉 *Coming soon…*
+👉 [LINK](https://github.com/Lafimouad/mfe-ecommerce-ts)
 
 ---
 
