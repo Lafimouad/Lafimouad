@@ -61,7 +61,7 @@ A production-ready React micro-frontend setup using Webpack Module Federation, s
 A complete Java microservice showcasing domain-driven design, REST API, validation, testing, Docker, and GitHub Actions CI.  
 **Tech:** Java, Spring Boot, Postgres, JUnit, Docker, GitHub Actions
 
-👉 *Coming soon…*
+👉 [LINK](https://github.com/Lafimouad/ecommerce-microservices-backend)
 
 ---
 
