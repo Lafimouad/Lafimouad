@@ -49,7 +49,7 @@ I love building **scalable applications**, improving **developer experience**, a
 
 ## 📌 Featured Projects
 
-### 🟦 **Micro-Frontend Architecture Ecommerce website **
+### 🟦 **Micro-Frontend Architecture Ecommerce website**
 A production-ready React micro-frontend setup using Webpack Module Federation, shared UI components, and scalable architecture.  
 **Tech:** React, TS, Module Federation, Storybook, CI/CD
 
